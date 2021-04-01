@@ -1,7 +1,6 @@
 {
   "people":[
   {"id": 1, "firstname":"Akeem", "lastname":"Adeagbo", "age":30}
-  {"id": 2, "firstname":"Kafayat", "lastname":"Adeagbo", "age":30}
 
 ]
 }
